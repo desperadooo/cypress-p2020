@@ -1,0 +1,175 @@
+{
+  "articles": [
+    {
+      "title": "test",
+      "slug": "test-ypgg2h",
+      "body": "test <b>test</b> Lorem Ipsum is simply dummy <b>text of the printing</b> and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "createdAt": "2020-04-17T12:23:50.044Z",
+      "updatedAt": "2020-04-17T12:23:50.044Z",
+      "tagList": [],
+      "description": "test",
+      "author": {
+        "username": "test-moh",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 2
+    },
+    {
+      "title": "Ffgfdsdfg dfgsdf sdfgsdfg dfg df",
+      "slug": "ffgfdsdfg-dfgsdf-sdfgsdfg-dfg-df-lc861f",
+      "body": "Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df Ffgfdsdfg dfgsdf sdfgsdfg dfg df ",
+      "createdAt": "2020-04-17T12:02:29.950Z",
+      "updatedAt": "2020-04-17T12:02:29.950Z",
+      "tagList": [],
+      "description": "Ffgfdsdfg dfgsdf sdfgsdfg dfg df",
+      "author": {
+        "username": "atest001",
+        "bio": null,
+        "image": "https://cs13.pikabu.ru/avatars/2072/x2072904-1526997095.png",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 2
+    },
+    {
+      "title": "tEST",
+      "slug": "test-p0k13",
+      "body": "User",
+      "createdAt": "2020-04-17T12:00:14.984Z",
+      "updatedAt": "2020-04-17T12:00:14.984Z",
+      "tagList": [],
+      "description": "mE",
+      "author": {
+        "username": "MyUser",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "test",
+      "slug": "test-yl0y2q",
+      "body": "test",
+      "createdAt": "2020-04-17T11:33:24.308Z",
+      "updatedAt": "2020-04-17T11:33:24.308Z",
+      "tagList": [],
+      "description": "test",
+      "author": {
+        "username": "pepepotamo",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-3ro5rm",
+      "body": "Easy and intresting",
+      "createdAt": "2020-04-17T11:15:44.719Z",
+      "updatedAt": "2020-04-17T11:15:44.719Z",
+      "tagList": [],
+      "description": "About Angular",
+      "author": {
+        "username": "surendar",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-sxkocz",
+      "body": "Test 2",
+      "createdAt": "2020-04-17T11:14:03.569Z",
+      "updatedAt": "2020-04-17T11:14:03.569Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "Winnerza",
+        "bio": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1024px-SNice.svg.png",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "Test",
+      "slug": "test-pxh896",
+      "body": "Test 2",
+      "createdAt": "2020-04-17T11:13:07.633Z",
+      "updatedAt": "2020-04-17T11:13:07.633Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "Winnerza",
+        "bio": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1024px-SNice.svg.png",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "Test",
+      "slug": "test-ix1tf0",
+      "body": "Test 2",
+      "createdAt": "2020-04-17T11:12:12.757Z",
+      "updatedAt": "2020-04-17T11:12:12.757Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "Winnerza",
+        "bio": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1024px-SNice.svg.png",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "Test",
+      "slug": "test-ljxysm",
+      "body": "Test 2",
+      "createdAt": "2020-04-17T11:11:40.908Z",
+      "updatedAt": "2020-04-17T11:11:40.908Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "Winnerza",
+        "bio": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1024px-SNice.svg.png",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "Test",
+      "slug": "test-1499c1",
+      "body": "Test 2",
+      "createdAt": "2020-04-17T11:05:02.277Z",
+      "updatedAt": "2020-04-17T11:05:02.277Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "Winnerza",
+        "bio": null,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1024px-SNice.svg.png",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    }
+  ],
+  "articlesCount": 500
+}
